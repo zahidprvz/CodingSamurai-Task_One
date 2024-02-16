@@ -24,7 +24,7 @@ Welcome to ToDoListApp, a simple and interactive command-line task manager writt
 1. Clone the repository (if you haven't already):
 
    ```shell
-   git clone https://github.com/zahidparviz/CodingSamurai-Task_One.git
+   git clone https://github.com/zahidprvz/CodingSamurai-Task_One.git
    ```
 
 2. Navigate to the project directory:
